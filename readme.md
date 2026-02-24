@@ -1,0 +1,1 @@
+A learning/personal project for maubot matrix bot management

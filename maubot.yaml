@@ -3,5 +3,7 @@ id: dollth.ing.HelpInfo
 version: 1.0.0
 license: AGPL3
 modules:
-  - Help
+  - HelpInfo
 main_class: HelpInfo
+extra_files:
+- base-config.yaml
